@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure & Automation, and GitOps / Kubernetes as a self-directed learning experience.
+My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure & Automation, and GitOps / Kubernetes.
 
 - 🔭 Kubernetes inspires me
 
