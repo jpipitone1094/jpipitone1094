@@ -2,18 +2,19 @@
 
 My name is Joe, and I am a Cloud Engineer working on AWS, Azure, Infrastructure & Automation, and GitOps / Kubernetes.
 
-- 🔭 Kubernetes inspires me
+- 🔭 Kubernetes inspires me.
 
-- 🌱 I plan on learning n8n next
+- 🌱 I plan on learning n8n next.
 
-- 💾 I like to continuously expand my knowledge using my homelab environment to deploy and experiment with open source technologies
+- 💾 I like to continuously expand my knowledge using my homelab environment to deploy and experiment with open source technologies.
 
-- 🤔 I’m actively searching for a new full time role
+- 🤔 I’m actively searching for a new full time Cloud Engineer, DevOps Engineer, or Systems Engineer role.
 
 ## 🌟 Featured Projects
-- **[k8s-gitops](https://github.com/josephpipitone/k8s-gitops)**: HomeLab Kubernetes cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions 🤖
-- **[docker-homelab](https://github.com/josephpipitone/docker-homelab)**: HomeLab Docker and profile configurations meant to be deployed on an LXC container in a Proxmox environment 🖥️
-- **[react-github-visualizer](https://github.com/josephpipitone/react-github-visualizer)**: Using React and Vite to build a simple GitHub visualization tool
+- **[k8s-gitops](https://github.com/josephpipitone/k8s-gitops)**: HomeLab Kubernetes cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions. 🤖
+- **[docker-homelab](https://github.com/josephpipitone/docker-homelab)**: HomeLab Docker and profile configurations meant to be deployed on an LXC container in a Proxmox environment. 🖥️
+- **[app-nginx-main](https://github.com/josephpipitone/app-nginx-main)**: Custom nginx image for testing purposes, can be deployed to any platform that supports image references.
+- **[react-github-visualizer](https://github.com/josephpipitone/react-github-visualizer)**: Using React and Vite to build a simple GitHub visualization tool.
 - **[ecs-fargate-webapp](https://github.com/josephpipitone/ecs-fargate-webapp)**: Template for various ECS Fargate deployments, with a standard nginx config.
 - **[nodejs-crypto-tracker](https://github.com/josephpipitone/nodejs-crypto-tracker)**: A web application that tracks real-time cryptocurrency prices, and determines either a positive, neutral or negative slope based on linear regression.
 - **[next-weather-static](https://github.com/josephpipitone/next-weather-static)**: A web application to Get current weather and forecasts for any location.
